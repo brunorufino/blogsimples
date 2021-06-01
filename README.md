@@ -1,6 +1,6 @@
 # blogsimples
 
-## Projeto consiste em uma aplicação simples, sobre VueJS 
+Projeto consiste em uma aplicação simples, abordando alguns conceitos simples sobre VueJS
  
  ```
  Abordando um alguns conceitos simples, 
