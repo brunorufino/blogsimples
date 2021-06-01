@@ -3,10 +3,10 @@
 Projeto consiste em uma aplicação simples, abordando alguns básicos sobre VueJS
  
  ```
- Componets, Diretivas 
+ Componets, Diretivas, Events, Methods, Computed e Watch
  ```
- sobre o funcionamento do VueJS
- 
+Comandos utilizados:
+v-on, map, push, splice, $emit.
  
 ## Project setup
 ```
