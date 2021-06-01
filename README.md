@@ -1,6 +1,6 @@
 # blogsimples
 
-Projeto consiste em uma aplicação simples, abordando alguns básicos sobre VueJS
+Projeto consiste em uma aplicação simples, abordando alguns conceitos básicos sobre VueJS
  
  ```
  Componets, Diretivas, Events, Methods, Computed e Watch e Two Way Data Binding
