@@ -3,7 +3,7 @@
 Projeto consiste em uma aplicação simples, abordando alguns básicos sobre VueJS
  
  ```
- Componets, Diretivas, Events, Methods, Computed e Watch
+ Componets, Diretivas, Events, Methods, Computed e Watch e Two Way Data Binding
  ```
 Comandos utilizados:
 v-on, map, push, splice, $emit.
