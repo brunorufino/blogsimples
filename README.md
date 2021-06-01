@@ -1,6 +1,7 @@
 # blogsimples
 
- Projeto consiste em uma aplicação simples 
+## Projeto consiste em uma aplicação simples, sobre VueJS 
+ 
  ```
  Abordando um alguns conceitos simples, 
  ```
