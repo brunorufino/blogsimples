@@ -1,8 +1,11 @@
 # blogsimples
 
  Projeto consiste em uma aplicação simples 
- Abordando um alguns conceitos simples, sobre o funcionamento do VueJS
-
+ ```
+ Abordando um alguns conceitos simples, 
+ ```
+ sobre o funcionamento do VueJS
+ 
 ## Project setup
 ```
 npm install
