@@ -1,11 +1,12 @@
 # blogsimples
 
-Projeto consiste em uma aplicação simples, abordando alguns conceitos simples sobre VueJS
+Projeto consiste em uma aplicação simples, abordando alguns básicos sobre VueJS
  
  ```
- Abordando um alguns conceitos simples, 
+ Componets, Diretivas 
  ```
  sobre o funcionamento do VueJS
+ 
  
 ## Project setup
 ```
